@@ -1,0 +1,22 @@
+2023-07-03 10:08:29,130 :INFO : test_formSubmission : Name captured is :Shyam
+2023-07-03 10:08:31,710 :INFO : test_formSubmission : Name captured is :Gorasia
+2023-07-03 10:08:31,710 :INFO : test_formSubmission : Name captured is :Gorasia
+2023-07-03 10:08:43,082 :INFO : test_e2e : getting all product titles
+2023-07-03 10:08:43,124 :INFO : test_e2e : iphone X
+2023-07-03 10:08:43,124 :INFO : test_e2e : Samsung Note 8
+2023-07-03 10:08:43,140 :INFO : test_e2e : Nokia Edge
+2023-07-03 10:08:43,140 :INFO : test_e2e : Blackberry
+2023-07-03 10:08:43,883 :INFO : test_e2e : Entering country name as ind
+2023-07-03 10:08:49,749 :INFO : test_e2e : Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2023-07-04 11:37:42,132 :INFO : test_formSubmission : Name captured is :Shyam
+2023-07-04 11:37:42,677 :INFO : test_formSubmission : Name captured is :Gorasia
+2023-07-04 11:37:42,677 :INFO : test_formSubmission : Name captured is :Gorasia
+2023-07-04 11:37:47,449 :INFO : test_e2e : getting all product titles
+2023-07-04 11:37:47,479 :INFO : test_e2e : iphone X
+2023-07-04 11:37:47,487 :INFO : test_e2e : Samsung Note 8
+2023-07-04 11:37:47,496 :INFO : test_e2e : Nokia Edge
+2023-07-04 11:37:47,505 :INFO : test_e2e : Blackberry
+2023-07-04 11:37:47,609 :INFO : test_e2e : Entering country name as ind
+2023-07-04 11:37:52,845 :INFO : test_e2e : Text received from application is: ×
+Success! Thank you! Your order will be delivered in next few weeks :-).
