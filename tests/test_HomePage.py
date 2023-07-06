@@ -28,6 +28,9 @@ class TestHomePage(BaseClass):
 
         assert ("Success" in alertText)
 
+        # ADDED THIS LINE TO DEMO GIT CODE UPDATE
+        print("I have updated code as a main user GitDemo, so new user can download this....")
+
         # this will refresh the data in url, so you can fill in with another data set, otherwise it will enter both data in same box
         #i.e. shyamgorasia, test@test.comtest2@test.com etc
         self.driver.refresh()
