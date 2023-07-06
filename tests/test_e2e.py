@@ -69,3 +69,6 @@ class TestOne(BaseClass):
 
         #fail test - for screenshot purpose
         assert "Success! hellllllo Thank you!" in successText
+
+        # ADDED THIS LINE TO DEMO GIT CODE UPDATE
+        print("I have updated code as a new user GitStuff,....")
