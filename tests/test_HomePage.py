@@ -34,6 +34,10 @@ class TestHomePage(BaseClass):
         # ADDED THIS LINE TO DEMO GIT CODE UPDATE
         print("I have updated code as a new user GitStuff,....")
 
+        # ADDED THIS LINE TO DEMO GIT BRANCH DEV UPDATE
+        print("I have updated code as a GitStuff user architect in DEV branch,....")
+
+
         # this will refresh the data in url, so you can fill in with another data set, otherwise it will enter both data in same box
         #i.e. shyamgorasia, test@test.comtest2@test.com etc
         self.driver.refresh()
