@@ -72,3 +72,6 @@ class TestOne(BaseClass):
 
         # ADDED THIS LINE TO DEMO GIT CODE UPDATE
         print("I have updated code as a new user GitStuff,....")
+
+        # ADDED THIS LINE TO DEMO GIT DEV BRANCH CHANGE UPDATE
+        print("I have updated code in dev branch as GitDemo user....")
